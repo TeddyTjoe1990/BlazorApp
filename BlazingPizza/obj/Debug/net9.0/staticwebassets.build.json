@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o7Ra0U6KuRoTQTgUZ8kyxDkssHVaCAPK0vAM2B+lcFo=",
+  "Hash": "5DulU2YMrCw884f9AbM7f7Ky16aZiFl7DT3zoEGQn88=",
   "Source": "BlazingPizza",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "07x3le7ol1",
-      "Integrity": "NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes=",
+      "Fingerprint": "z1bmebsf1t",
+      "Integrity": "dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\BlazingPizza.pdb"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "ve69zuz9y9",
-      "Integrity": "tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE=",
+      "Fingerprint": "eg0sas5qmd",
+      "Integrity": "sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\webcil\\BlazingPizza.wasm"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "f0iq4z2x9h",
-      "Integrity": "UdKA0/aabvHVtDovSx6OgMK/Mg2fCZRjHLHKmQbWqT0=",
+      "Fingerprint": "z6u7zg0cg0",
+      "Integrity": "ZSikUiIhbzCd0/sDuHnU/vRU7gDp3YIZtHjJV9ZeaSQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -5036,12 +5036,12 @@
       "OriginalItemSpec": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.wasm"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-ve69zuz9y9.gz",
+      "Identity": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-eg0sas5qmd.gz",
       "SourceId": "BlazingPizza",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazingPizza#[.{fingerprint=ve69zuz9y9}]!.wasm.gz",
+      "RelativePath": "_framework/BlazingPizza#[.{fingerprint=eg0sas5qmd}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5050,8 +5050,8 @@
       "RelatedAsset": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "owmk75n9d9",
-      "Integrity": "CAQ9br5tCqiCoqxy1OrypHPCDBj/OMW6QunbDGPKkAs=",
+      "Fingerprint": "wb168mzdny",
+      "Integrity": "PNzy/Om6NL5GM/hU0vVkId3UDHVOOT9vbESP8zHMXUE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.wasm"
@@ -8186,12 +8186,12 @@
       "OriginalItemSpec": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Channels.wasm"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-07x3le7ol1.gz",
+      "Identity": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-z1bmebsf1t.gz",
       "SourceId": "BlazingPizza",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazingPizza#[.{fingerprint=07x3le7ol1}]!.pdb.gz",
+      "RelativePath": "_framework/BlazingPizza#[.{fingerprint=z1bmebsf1t}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8200,8 +8200,8 @@
       "RelatedAsset": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xgcpdq4e1r",
-      "Integrity": "n18LgMg5Eaz7SdSW6uaJAZLI8nVD7nsMj9Snzyz8DbY=",
+      "Fingerprint": "ojf2tyhb8y",
+      "Integrity": "zG9QFXgbXZzL44CMN+gqwyVju+yy2gwMxYHTsKFnQUg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.pdb"
@@ -8942,7 +8942,7 @@
       "OriginalItemSpec": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Resources.ResourceManager.wasm"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\vp866mi6je-f0iq4z2x9h.gz",
+      "Identity": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\vp866mi6je-z6u7zg0cg0.gz",
       "SourceId": "BlazingPizza",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\",
@@ -8956,8 +8956,8 @@
       "RelatedAsset": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "iqyi7nxfod",
-      "Integrity": "pox3WTR0srXWgIDLPwor1dZ1Kmv4Ak25EiIOK00J4Nw=",
+      "Fingerprint": "impvggxc35",
+      "Integrity": "hgxSni536au6C1QlOMdf1BP2tlkTjCpM8XrAnYyvW1g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10687,305 +10687,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "_framework/BlazingPizza.07x3le7ol1.pdb",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23264"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "07x3le7ol1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazingPizza.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazingPizza.07x3le7ol1.pdb",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-07x3le7ol1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000059262771"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16873"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n18LgMg5Eaz7SdSW6uaJAZLI8nVD7nsMj9Snzyz8DbY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "07x3le7ol1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazingPizza.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazingPizza.07x3le7ol1.pdb.gz",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-07x3le7ol1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16873"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n18LgMg5Eaz7SdSW6uaJAZLI8nVD7nsMj9Snzyz8DbY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "07x3le7ol1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazingPizza.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n18LgMg5Eaz7SdSW6uaJAZLI8nVD7nsMj9Snzyz8DbY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazingPizza.pdb",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23264"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazingPizza.pdb",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-07x3le7ol1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000059262771"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16873"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n18LgMg5Eaz7SdSW6uaJAZLI8nVD7nsMj9Snzyz8DbY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NJjFFoZoLz7vPYPgN/Pn7bAlARfoAAtd8AaxKSESTes="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazingPizza.pdb.gz",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-07x3le7ol1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16873"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n18LgMg5Eaz7SdSW6uaJAZLI8nVD7nsMj9Snzyz8DbY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-n18LgMg5Eaz7SdSW6uaJAZLI8nVD7nsMj9Snzyz8DbY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazingPizza.ve69zuz9y9.wasm",
+      "Route": "_framework/BlazingPizza.eg0sas5qmd.wasm",
       "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10995,7 +10697,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17685"
+          "Value": "20245"
         },
         {
           "Name": "Content-Type",
@@ -11003,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE=\""
+          "Value": "\"sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:26 GMT"
+          "Value": "Mon, 19 May 2025 10:10:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11017,7 +10719,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ve69zuz9y9"
+          "Value": "eg0sas5qmd"
         },
         {
           "Name": "label",
@@ -11025,18 +10727,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE="
+          "Value": "sha256-sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A="
         }
       ]
     },
     {
-      "Route": "_framework/BlazingPizza.ve69zuz9y9.wasm",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-ve69zuz9y9.gz",
+      "Route": "_framework/BlazingPizza.eg0sas5qmd.wasm",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-eg0sas5qmd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000129988301"
+          "Quality": "0.000112095057"
         }
       ],
       "ResponseHeaders": [
@@ -11046,15 +10748,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7692"
+          "Value": "8920"
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQ9br5tCqiCoqxy1OrypHPCDBj/OMW6QunbDGPKkAs=\""
+          "Value": "\"PNzy/Om6NL5GM/hU0vVkId3UDHVOOT9vbESP8zHMXUE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:28 GMT"
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11074,13 +10776,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE=\""
+          "Value": "W/\"sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ve69zuz9y9"
+          "Value": "eg0sas5qmd"
         },
         {
           "Name": "label",
@@ -11088,13 +10790,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE="
+          "Value": "sha256-sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A="
         }
       ]
     },
     {
-      "Route": "_framework/BlazingPizza.ve69zuz9y9.wasm.gz",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-ve69zuz9y9.gz",
+      "Route": "_framework/BlazingPizza.eg0sas5qmd.wasm.gz",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-eg0sas5qmd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11103,7 +10805,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7692"
+          "Value": "8920"
         },
         {
           "Name": "Content-Type",
@@ -11111,11 +10813,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQ9br5tCqiCoqxy1OrypHPCDBj/OMW6QunbDGPKkAs=\""
+          "Value": "\"PNzy/Om6NL5GM/hU0vVkId3UDHVOOT9vbESP8zHMXUE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:28 GMT"
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11133,7 +10835,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ve69zuz9y9"
+          "Value": "eg0sas5qmd"
         },
         {
           "Name": "label",
@@ -11141,7 +10843,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CAQ9br5tCqiCoqxy1OrypHPCDBj/OMW6QunbDGPKkAs="
+          "Value": "sha256-PNzy/Om6NL5GM/hU0vVkId3UDHVOOT9vbESP8zHMXUE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazingPizza.pdb",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazingPizza.pdb",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-z1bmebsf1t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000055890901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17891"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zG9QFXgbXZzL44CMN+gqwyVju+yy2gwMxYHTsKFnQUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazingPizza.pdb.gz",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-z1bmebsf1t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zG9QFXgbXZzL44CMN+gqwyVju+yy2gwMxYHTsKFnQUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zG9QFXgbXZzL44CMN+gqwyVju+yy2gwMxYHTsKFnQUg="
         }
       ]
     },
@@ -11156,7 +10995,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17685"
+          "Value": "20245"
         },
         {
           "Name": "Content-Type",
@@ -11164,11 +11003,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE=\""
+          "Value": "\"sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:26 GMT"
+          "Value": "Mon, 19 May 2025 10:10:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11178,18 +11017,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE="
+          "Value": "sha256-sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A="
         }
       ]
     },
     {
       "Route": "_framework/BlazingPizza.wasm",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-ve69zuz9y9.gz",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-eg0sas5qmd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000129988301"
+          "Quality": "0.000112095057"
         }
       ],
       "ResponseHeaders": [
@@ -11199,15 +11038,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7692"
+          "Value": "8920"
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQ9br5tCqiCoqxy1OrypHPCDBj/OMW6QunbDGPKkAs=\""
+          "Value": "\"PNzy/Om6NL5GM/hU0vVkId3UDHVOOT9vbESP8zHMXUE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:28 GMT"
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11227,19 +11066,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE=\""
+          "Value": "W/\"sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tzNslOF0sP5C44aH1njyKA+7r0ihEVEDu2+MaADTZrE="
+          "Value": "sha256-sgS6t6F175qFXkGtTihv2/ZoRTZ2GD4h1xExTtE4D5A="
         }
       ]
     },
     {
       "Route": "_framework/BlazingPizza.wasm.gz",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-ve69zuz9y9.gz",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\4gjyitkzln-eg0sas5qmd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11248,7 +11087,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7692"
+          "Value": "8920"
         },
         {
           "Name": "Content-Type",
@@ -11256,11 +11095,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQ9br5tCqiCoqxy1OrypHPCDBj/OMW6QunbDGPKkAs=\""
+          "Value": "\"PNzy/Om6NL5GM/hU0vVkId3UDHVOOT9vbESP8zHMXUE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:35:28 GMT"
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11278,7 +11117,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CAQ9br5tCqiCoqxy1OrypHPCDBj/OMW6QunbDGPKkAs="
+          "Value": "sha256-PNzy/Om6NL5GM/hU0vVkId3UDHVOOT9vbESP8zHMXUE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazingPizza.z1bmebsf1t.pdb",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazingPizza.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z1bmebsf1t"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazingPizza.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazingPizza.z1bmebsf1t.pdb",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-z1bmebsf1t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000055890901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17891"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zG9QFXgbXZzL44CMN+gqwyVju+yy2gwMxYHTsKFnQUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z1bmebsf1t"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazingPizza.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dzv8aXriaGtpRgTY7VI4JyudGi7rdtiS4d4Mt6scpFU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazingPizza.z1bmebsf1t.pdb.gz",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\po30fv86k8-z1bmebsf1t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zG9QFXgbXZzL44CMN+gqwyVju+yy2gwMxYHTsKFnQUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z1bmebsf1t"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazingPizza.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zG9QFXgbXZzL44CMN+gqwyVju+yy2gwMxYHTsKFnQUg="
         }
       ]
     },
@@ -11301,11 +11301,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UdKA0/aabvHVtDovSx6OgMK/Mg2fCZRjHLHKmQbWqT0=\""
+          "Value": "\"ZSikUiIhbzCd0/sDuHnU/vRU7gDp3YIZtHjJV9ZeaSQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:40:18 GMT"
+          "Value": "Mon, 19 May 2025 10:10:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11315,18 +11315,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UdKA0/aabvHVtDovSx6OgMK/Mg2fCZRjHLHKmQbWqT0="
+          "Value": "sha256-ZSikUiIhbzCd0/sDuHnU/vRU7gDp3YIZtHjJV9ZeaSQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\vp866mi6je-f0iq4z2x9h.gz",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\vp866mi6je-z6u7zg0cg0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081182010"
+          "Quality": "0.000081208381"
         }
       ],
       "ResponseHeaders": [
@@ -11336,15 +11336,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12317"
+          "Value": "12313"
         },
         {
           "Name": "ETag",
-          "Value": "\"pox3WTR0srXWgIDLPwor1dZ1Kmv4Ak25EiIOK00J4Nw=\""
+          "Value": "\"hgxSni536au6C1QlOMdf1BP2tlkTjCpM8XrAnYyvW1g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:40:08 GMT"
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11364,19 +11364,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UdKA0/aabvHVtDovSx6OgMK/Mg2fCZRjHLHKmQbWqT0=\""
+          "Value": "W/\"ZSikUiIhbzCd0/sDuHnU/vRU7gDp3YIZtHjJV9ZeaSQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UdKA0/aabvHVtDovSx6OgMK/Mg2fCZRjHLHKmQbWqT0="
+          "Value": "sha256-ZSikUiIhbzCd0/sDuHnU/vRU7gDp3YIZtHjJV9ZeaSQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\vp866mi6je-f0iq4z2x9h.gz",
+      "AssetFile": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\obj\\Debug\\net9.0\\compressed\\vp866mi6je-z6u7zg0cg0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11385,7 +11385,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12317"
+          "Value": "12313"
         },
         {
           "Name": "Content-Type",
@@ -11393,11 +11393,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pox3WTR0srXWgIDLPwor1dZ1Kmv4Ak25EiIOK00J4Nw=\""
+          "Value": "\"hgxSni536au6C1QlOMdf1BP2tlkTjCpM8XrAnYyvW1g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 09:40:08 GMT"
+          "Value": "Mon, 19 May 2025 10:10:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11415,7 +11415,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pox3WTR0srXWgIDLPwor1dZ1Kmv4Ak25EiIOK00J4Nw="
+          "Value": "sha256-hgxSni536au6C1QlOMdf1BP2tlkTjCpM8XrAnYyvW1g="
         }
       ]
     },

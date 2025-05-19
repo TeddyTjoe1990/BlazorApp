@@ -1,7 +1,20 @@
 ﻿@page "/"
+@inject PizzaService PizzaService
+@using BlazingPizza.Services
 
-<PageTitle>Home</PageTitle>
+<h1>Pizza Specials</h1>
 
-<h1>Hello, world!</h1>
-
-Welcome to your new app.
+<div class="row">
+    @foreach (var pizza in PizzaService.GetSpecials())
+    {
+        <div class="card" style="width: 18rem; margin: 1rem;">
+            <img src="@pizza.ImageUrl" class="card-img-top" alt="@pizza.Name" />
+            <div class="card-body">
+                <h5 class="card-title">@pizza.Name</h5>
+                <p class="card-text">@pizza.Description</p>
+                <p><strong>@pizza.Price.ToString("C")</strong></p>
+                <a href="#" class="btn btn-primary">Order Now!</a>
+            </div>
+        </div>
+    }
+</div>
