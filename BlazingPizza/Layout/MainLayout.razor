@@ -1,6 +1,6 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
+<div style="display: flex; flex-direction: column; min-height: 100vh;">
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="/">Blazing Pizza</a>
@@ -19,7 +19,12 @@
             </div>
         </nav>
     </header>
-    <main class="container mt-4">
+
+    <main style="flex: 1; padding: 1rem;">
         @Body
     </main>
+
+    <footer style="width: 100%; text-align: center; padding: 1rem 0; border-top: 1px solid #ddd; background-color: #f8f9fa;">
+        © 2025 Blazing Pizza | Made by Jannuar Teddy Herjanto - Indonesia
+    </footer>
 </div>

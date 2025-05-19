@@ -118,3 +118,31 @@ code {
     height: 200px;
     object-fit: cover;
 }
+
+/* Supaya halaman selalu minimal penuh layar dan footer di bawah */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* minimal tinggi layar */
+}
+
+main.container {
+    flex: 1; /* isi konten tumbuh memenuhi ruang */
+}
+
+/* Styling footer */
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+    border-top: 1px solid #ddd;
+    background-color: #f8f9fa;
+    position: relative; /* default position */
+}
+

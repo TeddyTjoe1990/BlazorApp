@@ -1,14 +1,19 @@
 @page "/catalog"
+@using BlazingPizza.Services
 @inject PizzaService PizzaService
 @using BlazingPizza.Models
 @using BlazingPizza.Components
-@using BlazingPizza.Services   <!-- Tambahkan ini -->
+@using System.Globalization
 
 <h2>Pizza Catalog</h2>
 
 @if (pizzaSpecials == null)
 {
     <p><em>Loading pizza...</em></p>
+}
+else if (!pizzaSpecials.Any())
+{
+    <p><em>No pizza specials available.</em></p>
 }
 else
 {

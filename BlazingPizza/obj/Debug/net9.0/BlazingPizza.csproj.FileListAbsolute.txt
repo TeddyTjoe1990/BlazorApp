@@ -811,6 +811,7 @@ C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\scopedcss\bundle\BlazingPi
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\scopedcss\projectbundle\BlazingPizza.bundle.scp.css
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\blazor.build.boot-extension.json
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\blazor.boot.json
+C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\97loa7xm60-sekg5lqw4e.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\dqqprdb855-879n6h9lcp.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\qq4oskafhe-bqjiyaj88i.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\mxau49jzuy-c2jlpeoesf.gz
@@ -1074,11 +1075,10 @@ C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\BlazingPizza.dll
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\refint\BlazingPizza.dll
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\BlazingPizza.pdb
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\ref\BlazingPizza.dll
-C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.j8qo8o5yda.pdb
-C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.q5722lqu7k.wasm
-C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.q5722lqu7k.wasm.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.j8qo8o5yda.pdb.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\97loa7xm60-ragcrxq5y8.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\4gjyitkzln-q5722lqu7k.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\po30fv86k8-j8qo8o5yda.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\vp866mi6je-xbnx80quaq.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.76ki0cb10e.pdb
+C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.6k0bd25u28.wasm
+C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.6k0bd25u28.wasm.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.76ki0cb10e.pdb.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\4gjyitkzln-6k0bd25u28.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\po30fv86k8-76ki0cb10e.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\vp866mi6je-hj3vv4bzaf.gz
