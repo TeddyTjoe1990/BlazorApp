@@ -8,7 +8,7 @@
     @foreach (var pizza in PizzaService.GetSpecials())
     {
         <div class="card" style="width: 18rem; margin: 1rem;">
-            <img src="@pizza.ImageUrl" class="card-img-top" alt="@pizza.Name" />
+            <img src="@pizza.ImageUrl" class="pizza-img" alt="@pizza.Name" />
             <div class="card-body">
                 <h5 class="card-title">@pizza.Name</h5>
                 <p class="card-text">@pizza.Description</p>

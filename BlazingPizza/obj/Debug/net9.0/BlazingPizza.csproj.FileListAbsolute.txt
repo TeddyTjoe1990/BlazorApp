@@ -1,5 +1,3 @@
-C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.q9ip7jtlrf.pdb
-C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.jw1gj5b3ai.wasm
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
@@ -230,7 +228,6 @@ C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.so36gwcdvm.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\netstandard.ifx8vojh9u.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.TypeConverter.o2rbwek366.wasm.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.jw1gj5b3ai.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.Xml.Linq.3g0uzfg3q5.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.Linq.Queryable.8vjofh88qa.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\Microsoft.JSInterop.fzaop883yy.wasm.gz
@@ -348,7 +345,6 @@ C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.69wknkil2z.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.Formats.Tar.qx19rhlhxw.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Channels.sans7ybw3q.wasm.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.q9ip7jtlrf.pdb.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.c61u9af934.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.IO.FileSystem.Primitives.q19vnktpak.wasm.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\System.Security.Principal.5bg4gnsg0x.wasm.gz
@@ -815,7 +811,6 @@ C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\scopedcss\bundle\BlazingPi
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\scopedcss\projectbundle\BlazingPizza.bundle.scp.css
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\blazor.build.boot-extension.json
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\blazor.boot.json
-C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\97loa7xm60-8rbvw3on5j.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\dqqprdb855-879n6h9lcp.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\qq4oskafhe-bqjiyaj88i.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\mxau49jzuy-c2jlpeoesf.gz
@@ -1065,9 +1060,6 @@ C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\9ylltiwit4-sw8h
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\3sj48oqefm-tjcz0u77k5.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\00vnbc6ojs-tptq2av103.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\hrm6dms98z-lfu7j35m59.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\4gjyitkzln-jw1gj5b3ai.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\po30fv86k8-q9ip7jtlrf.gz
-C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\vp866mi6je-93dat7spga.gz
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1082,3 +1074,11 @@ C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\BlazingPizza.dll
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\refint\BlazingPizza.dll
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\BlazingPizza.pdb
 C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\ref\BlazingPizza.dll
+C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.j8qo8o5yda.pdb
+C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.q5722lqu7k.wasm
+C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.q5722lqu7k.wasm.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\bin\Debug\net9.0\wwwroot\_framework\BlazingPizza.j8qo8o5yda.pdb.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\97loa7xm60-ragcrxq5y8.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\4gjyitkzln-q5722lqu7k.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\po30fv86k8-j8qo8o5yda.gz
+C:\Users\ASUS\BlazorApp\BlazingPizza\obj\Debug\net9.0\compressed\vp866mi6je-xbnx80quaq.gz

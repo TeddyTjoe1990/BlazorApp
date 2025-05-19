@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\wwwroot\\images\\margherita.jpg",
+      "PackagePath": "staticwebassets\\images\\margherita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\wwwroot\\images\\pepperoni.jpg",
+      "PackagePath": "staticwebassets\\images\\pepperoni.jpg"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\BlazorApp\\BlazingPizza\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
