@@ -1,13 +1,31 @@
 using BlazingPizza.Models;
+using System.Collections.Generic;
 
 namespace BlazingPizza.Services
 {
     public class PizzaService
     {
-        public List<Pizza> GetSpecials() => new()
+        public List<Pizza> GetSpecials()
         {
-            new Pizza { Id = 1, Name = "Meat Lover", Description = "Full of meats", Price = 80000, ImageUrl = "images/meatlovers.jpg" },
-            new Pizza { Id = 2, Name = "Veggie Deluxe", Description = "Healthy and tasty", Price = 70000, ImageUrl = "images/veggie.jpg" }
-        };
+            return new List<Pizza>
+            {
+                new Pizza
+                {
+                    Id = 1,
+                    Name = "Margherita",
+                    Description = "Classic delight with cheese and tomatoes.",
+                    Price = 8.99m,
+                    ImageUrl = "images/margherita.jpg"
+                },
+                new Pizza
+                {
+                    Id = 2,
+                    Name = "Pepperoni",
+                    Description = "Loaded with spicy pepperoni.",
+                    Price = 10.99m,
+                    ImageUrl = "images/pepperoni.jpg"
+                }
+            };
+        }
     }
 }

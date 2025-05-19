@@ -1,0 +1,30 @@
+@using BlazingPizza.Models
+@namespace BlazingPizza.Components
+
+<div class="row">
+    @foreach (var pizza in Pizzas)
+    {
+        <div class="card" style="width: 18rem; margin: 1rem;">
+            <img src="@pizza.ImageUrl" class="card-img-top" alt="@pizza.Name" />
+            <div class="card-body">
+                <h5 class="card-title">@pizza.Name</h5>
+                <p class="card-text">@pizza.Description</p>
+                <p><strong>@pizza.Price.ToString("C")</strong></p>
+                <button class="btn btn-primary" @onclick="() => OnSelectPizza(pizza)">Select</button>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public List<Pizza> Pizzas { get; set; } = new List<Pizza>();
+
+    [Parameter]
+    public EventCallback<Pizza> OnPizzaSelected { get; set; }
+
+    private async Task OnSelectPizza(Pizza pizza)
+    {
+        await OnPizzaSelected.InvokeAsync(pizza);
+    }
+}

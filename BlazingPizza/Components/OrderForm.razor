@@ -1,0 +1,43 @@
+@using System.ComponentModel.DataAnnotations
+
+<EditForm Model="@order" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label>Name:</label>
+        <InputText @bind-Value="order.CustomerName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Address:</label>
+        <InputTextArea @bind-Value="order.Address" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Submit Order</button>
+</EditForm>
+
+@if (submitted)
+{
+    <p>Thank you, @order.CustomerName! Your order is placed.</p>
+}
+
+@code {
+    private Order order = new();
+    private bool submitted = false;
+
+    private void HandleValidSubmit()
+    {
+        submitted = true;
+        // Simpan order ke database / service di sini
+    }
+
+    public class Order
+    {
+        [Required]
+        public string CustomerName { get; set; } = string.Empty;
+
+        [Required]
+        public string Address { get; set; } = string.Empty;
+    }
+}

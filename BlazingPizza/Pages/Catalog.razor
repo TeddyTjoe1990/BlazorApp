@@ -1,0 +1,30 @@
+@page "/catalog"
+@inject PizzaService PizzaService
+@using BlazingPizza.Models
+@using BlazingPizza.Components
+@using BlazingPizza.Services   <!-- Tambahkan ini -->
+
+<h2>Pizza Catalog</h2>
+
+@if (pizzaSpecials == null)
+{
+    <p><em>Loading pizza...</em></p>
+}
+else
+{
+    <PizzaList Pizzas="pizzaSpecials" OnPizzaSelected="HandlePizzaSelection" />
+}
+
+@code {
+    private List<Pizza>? pizzaSpecials;
+
+    protected override void OnInitialized()
+    {
+        pizzaSpecials = PizzaService.GetSpecials();
+    }
+
+    private void HandlePizzaSelection(Pizza pizza)
+    {
+        Console.WriteLine($"Selected: {pizza.Name}");
+    }
+}
